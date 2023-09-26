@@ -106,9 +106,6 @@ tensorflow
 
 You only need to follow these steps if you want to build the UF2 image yourself. Otherwise, just copy the pre-built UF2 image to the Pico using the instructions above.
 
-1. Setup the Pico SDK following the instructions here for your platform:
-https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
-
 3. Run the following:
 
 ```
@@ -151,13 +148,4 @@ _________________________________________________________________
 ```
 
 ----
-
-### Netron Diagram of the Final Model
-
-<a href="artifacts/eurosat-model-architecture.png">
-  <img src="artifacts/eurosat-model-architecture.png?raw=true" width="250" alt="Netron Diagram of eurosat.tflite" />
-</a>
-
-Created using [Netron](https://github.com/lutzroeder/Netron)
-
-----
+Create by Shivani Tiwari 
